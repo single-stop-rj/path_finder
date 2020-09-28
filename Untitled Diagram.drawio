@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-28T18:09:59.024Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="wfXOJyfFj1wF95Kz4Pmd" version="13.7.5" type="github">
+<mxfile modified="2020-09-28T18:11:09.917Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="qCnUsJvBFTqDJDqu0fjo" version="13.7.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1426" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,6 +259,9 @@
         </mxCell>
         <mxCell id="jZVaUwOg5UY3L9NAnvdq-178" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B3B3B3;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;labelBackgroundColor=#ffffff;" parent="jZVaUwOg5UY3L9NAnvdq-176" vertex="1">
           <mxGeometry width="21" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uzytsqBTus65wIBebeHf-58" value="Redis Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="402" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
